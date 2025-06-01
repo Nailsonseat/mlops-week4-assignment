@@ -1,0 +1,5 @@
+outs:
+- md5: 752532b0ae1c8dd895a66877eae8e53d
+  size: 16803488
+  hash: md5
+  path: model.weights.h5
