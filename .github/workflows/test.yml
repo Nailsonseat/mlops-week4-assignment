@@ -5,7 +5,7 @@ on:
   pull_request:
     types: [opened, synchronize, reopened]
     branches:
-      - main  # replace with your base branch if different
+      - main
 
 permissions:
   contents: write
